@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.0.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDcGvpR+2D+o2EkTQUkf3IVMa4ERJorh62vkgwvcaQr056kHoC+n7m+0v14ic36BAYloj0LI3SSNc1jRNeBh3ID92mewyGDt8WZ9Bf5S4lCDi6jLtgvsu+QAlxoUbZVPLoIBEtOTk5H52q4iTDkMxs2VDs58ibw+rmoRnM+Y/wUVHVcW87wS9JQbxFuyx+CHBNG8v7ok3OPdVN99jVgv2rw/5JdaDDFGiC7q/pu/nOGjLgvjEt9jvIrsKSF+UyQSqFMoGUCu30vacNcUVqzeFm8mdEK1a2aDll9zb15PQ7VcR6LuiR+KT3TBxI6uW4H6UUMj+HNRz+yufByx5hkDeB6dk2OeteryDPjbbH0XtQryUXGfi0iHmrXhaCz7YZLW9F0wDNQV15dBmtpOYFIh1T9fjwlr6w/WQA0PelR4Mi/0l2X+irJyslIY7e8YcM4uCXQV/j08wl73TdQqz0zU+u3D7k4o0ZrQBRq2n8BjAr3SNn5yY8nSyXlpbqE0XiWGCpWb0W6C/+U9exBiPBTHtQdz2o4na9yKVDT4L/pVOIwBpIxtaHaoHzzU8UnHzW8V3uD71oQucEfpqF/YHJKbDsSNV4JtU8oE+S5mMexfvBPqYLVpIshYaUuEGpO3v/0MMPlOkFOHlnhiNGG8HCSS3BMpRsQa0xtFZIRZNCnFt++Qw==
