@@ -21,4 +21,3 @@ workflows:
   build-and-publish:
     jobs:
       - build-and-publish
-          context: default
