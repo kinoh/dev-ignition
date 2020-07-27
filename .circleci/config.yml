@@ -17,6 +17,7 @@ jobs:
             ghr -t ${GITHUB_TOKEN} -u ${CIRCLE_PROJECT_USERNAME} -r ${CIRCLE_PROJECT_REPONAME} -c ${CIRCLE_SHA1} -delete ${CIRCLE_SHA1} ./base.ign
 
 workflows:
+  version: 2
   context: default
   build-and-publish:
     jobs:
